@@ -1,4 +1,3 @@
-\\state.in.us\file1\ISDH\home\salishala\Visual Studio 2015\Projects\ContosoMVCapp\ContosoMVC.Tests\obj\Debug\ContosoMVC.Tests.csprojResolveAssemblyReference.cache
 \\state.in.us\file1\ISDH\home\salishala\Visual Studio 2015\Projects\ContosoMVCapp\ContosoMVC.Tests\bin\Debug\ApplicationInsights.config
 \\state.in.us\file1\ISDH\home\salishala\Visual Studio 2015\Projects\ContosoMVCapp\ContosoMVC.Tests\bin\Debug\roslyn\csc.exe
 \\state.in.us\file1\ISDH\home\salishala\Visual Studio 2015\Projects\ContosoMVCapp\ContosoMVC.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -37,5 +36,6 @@
 \\state.in.us\file1\ISDH\home\salishala\Visual Studio 2015\Projects\ContosoMVCapp\ContosoMVC.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 \\state.in.us\file1\ISDH\home\salishala\Visual Studio 2015\Projects\ContosoMVCapp\ContosoMVC.Tests\bin\Debug\System.Web.Optimization.xml
 \\state.in.us\file1\ISDH\home\salishala\Visual Studio 2015\Projects\ContosoMVCapp\ContosoMVC.Tests\bin\Debug\EntityFramework.xml
+\\state.in.us\file1\ISDH\home\salishala\Visual Studio 2015\Projects\ContosoMVCapp\ContosoMVC.Tests\obj\Debug\ContosoMVC.Tests.csprojResolveAssemblyReference.cache
 \\state.in.us\file1\ISDH\home\salishala\Visual Studio 2015\Projects\ContosoMVCapp\ContosoMVC.Tests\obj\Debug\ContosoMVC.Tests.dll
 \\state.in.us\file1\ISDH\home\salishala\Visual Studio 2015\Projects\ContosoMVCapp\ContosoMVC.Tests\obj\Debug\ContosoMVC.Tests.pdb

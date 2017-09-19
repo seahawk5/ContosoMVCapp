@@ -54,3 +54,4 @@
 \\state.in.us\file1\ISDH\home\salishala\Visual Studio 2015\Projects\ContosoMVCapp\ContosoMVC\bin\Newtonsoft.Json.xml
 \\state.in.us\file1\ISDH\home\salishala\Visual Studio 2015\Projects\ContosoMVCapp\ContosoMVC\obj\Debug\ContosoMVC.dll
 \\state.in.us\file1\ISDH\home\salishala\Visual Studio 2015\Projects\ContosoMVCapp\ContosoMVC\obj\Debug\ContosoMVC.pdb
+\\state.in.us\file1\ISDH\home\salishala\Visual Studio 2015\Projects\ContosoMVCapp\ContosoMVC\obj\Debug\ContosoMVC.csprojResolveAssemblyReference.cache
